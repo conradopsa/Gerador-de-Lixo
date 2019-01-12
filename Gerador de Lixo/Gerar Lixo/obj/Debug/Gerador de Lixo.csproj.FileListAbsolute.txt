@@ -1,0 +1,10 @@
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\bin\Debug\Gerador de Lixo.exe.config
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\bin\Debug\Gerador de Lixo.exe
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\bin\Debug\Gerador de Lixo.pdb
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\obj\Debug\Gerador de Lixo.csprojAssemblyReference.cache
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\obj\Debug\Gerar_Lixo.Form1.resources
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\obj\Debug\Gerar_Lixo.Properties.Resources.resources
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\obj\Debug\Gerador de Lixo.csproj.GenerateResource.cache
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\obj\Debug\Gerador de Lixo.csproj.CoreCompileInputs.cache
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\obj\Debug\Gerador de Lixo.exe
+C:\Users\Derp\source\repos\Gerar Lixo\Gerar Lixo\obj\Debug\Gerador de Lixo.pdb
